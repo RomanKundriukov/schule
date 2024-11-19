@@ -1,6 +1,5 @@
 # KA Termine
 
-## Liste der Termine mit Kontrollkästchen
 - [ ] 25.11.2024 - HTML
 - [ ] 02.12.2024 - English
 - [ ] 03.12.2024 - GK
