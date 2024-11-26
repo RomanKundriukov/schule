@@ -5,17 +5,20 @@
 ![Diagramm](/GK/images/Grundrechte.drawio.png)
 
 1. Grundrechte kann man einklagen
-    - Grundrechte kann man einklagen
+    - Bundesverfassungsgericht
 2. Grundrechte können nur mit 2/3 Mehrheit im Bundestag +   Bundesrecht geändert werden.
-    - aber: Sind darf geändert werden.
+    - aber: Sinn darf nicht geändert werden.
 
 ## Pluralismus
 Der Grundsatz für jede Demokratie ist Pluralismus.
 
 #### Pluralismus
-- verschiedene Gruppen / Meinungen in der Gesellschaft sind gleichberechtigt
+- Verschiedene Gruppen / Meinungen in der Gesellschaft sind gleichberechtigt
 
 - Mehrheit entscheidet, aber Minderheit sind geschützt
+
+- Kompromissfähigkeit
+(Toleranz + offenheit)
 
 - konfliktfähigkeit 
 (friedlich, sachlich)
@@ -40,7 +43,7 @@ Der Grundsatz für jede Demokratie ist Pluralismus.
     - Verabschiedet Gesetzte
     - Fraktion (= Partei im BT) muss geschlossen abstimmen / Fraktionsdisziplin
 - Opposition sollen Kritisieren + Alterbativen zeigen
-- Parlament kann Kanzler + Regiere´ung absetzen = Misstrauensvotum
+- Parlament kann Kanzler + Regiereung absetzen = Misstrauensvotum
 
 #### Welche Aufgaben erfüllt eine Wahl?
 
@@ -59,7 +62,7 @@ Der Grundsatz für jede Demokratie ist Pluralismus.
 1. gleich: Jede Stimme zählt + gleich viel
 2. geheim
 3. frei
-4. unmittelbar: Direkte Wahl != ZSA
+4. unmittelbar: Direkte Wahl $\not=$ USA
 5. allgemein: Jede mit deutschen Pass ab 18 Jahren (BT)
 
 ## Mehrheitswahlrecht vs. Verhältniswahlrecht
