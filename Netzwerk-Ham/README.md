@@ -32,12 +32,108 @@
 
 ![OSI Modell](/Netzwerk-Ham//images/OSIModell.png)
 
+## Protokolle
+- ICMP -> ping Befehl
+- OSPF -> routing Befehl (224.0.0.5)
+
+## IPv4-Adressierung
+
+<table>
+<tr>
+<th> </th>
+<th>Adresse</th>
+</tr>
+<tr>
+<td>Unicast</td>
+<td>1.0.0.0 -> 126.255.255.255</td>
+</tr>
+<tr>
+<td> </td>
+<td>127.0.0.1 (kann man sich pingen)</td>
+</tr>
+<tr>
+<td> </td>
+<td>128.0.0.0 -> 191.255.255.255</td>
+</tr>
+<tr>
+<td> </td>
+<td>192.0.0.0 -> 223.255.255.255</td>
+</tr>
+<tr>
+<td>Multicast</td>
+<td>224.0.0.0 -> 239.255.255.255</td>
+</tr>
+<tr>
+<td>Broadcast</td>
+<td>255.255.255.255</td>
+</tr>
+<tr>
+<td>Experimentelle Zwecke reserviert</td>
+<td>240.0.0.0 -> 255.255.255.254</td>
+</tr>
+</table>
+
+## Public und Private Ip-Adresse
+
+- Private IP-Adresse
+
+    1. 10.0.0.0 -> 10.255.255.255
+    2. 172.16.0.0 -> 172.31.255.255
+    3. 192.168.0.0 -> 192.168.255.2550
+
+- Public IP-Adress
+    - Ip-Adress von Router, aber mit verschiedene Porten. 
+    - Network Address Translation (NAT)
+
 ## Subnetzmaske
 - Die Subnetzmaske teilt die IP - Adressen in Netzanteil & Hostanteil auf.
 
     - Hostanteil startet ab 0 in Subnetzmaske
 
     - Alle Geräte in einem Lan haben den gleichen Netzanteil
+
+<table>
+<tr>
+<th>Binär</th>
+<td>Dezimal</td>
+</tr>
+<tr>
+<td>0000 0000</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1000 0000</td>
+<td>128</td>
+</tr>
+<tr>
+<td>1100 0000</td>
+<td>192</td>
+</tr>
+<tr>
+<td>1110 0000</td>
+<td>224</td>
+</tr>
+<tr>
+<td>1111 0000</td>
+<td>240</td>
+</tr>
+<tr>
+<td>1111 1000</td>
+<td>248</td>
+</tr>
+<tr>
+<td>1111 1100</td>
+<td>252</td>
+</tr>
+<tr>
+<td>1111 1110</td>
+<td>254</td>
+</tr>
+<tr>
+<td>1111 1111</td>
+<td>255</td>
+</tr>
+</table>
 
 ## Wlan - Standorts
 L2 - Data Link Layer besteht aus 2 Sublayers
@@ -137,8 +233,8 @@ Brodcast-Adresse
 Reservierte Multicast-Adresse
 - 01:00:5E -> erste 3 byte
 - IPv4-Multicast-Adressen liegen im Bereich 224.0.0.0 bis 239.255.255.255.
-- für die Berechnung nehmen wir letzte 3 Byte
-- die erste Bit in IPv4 muss immer 0 sein
+- für die Berechnung nehmen wir letzte 3 Byte von gültige Multicast Ip-Adresse
+- in erstem Bite des letztes 3 Bytes muss immer 0 sein
 
 ## Switch-Verfahren
 
@@ -167,6 +263,39 @@ Reservierte Multicast-Adresse
    - Kompromiss zwischen Store-and-Forward- und Fast-Forward-Switching.
    - Vorteil: Verhindert die Weiterleitung von Frames mit Kollisionen (da diese meist in den ersten 64 Bytes erkennbar sind).
    - Nachteil: Höhere Latenz als Fast-Forward-Switching, aber geringere Fehlerquote.
+
+<table>
+<tr>
+<th> </th>
+<th>Store and Forward</th>
+<th>Cut-Through -> Fast-Forward</th>
+<th>Cut-Through -> Fragment Free</th>
+</tr>
+<tr>
+<td>Fehlererkennung CRC()Prüfsumme</td>
+<td>ja</td>
+<td>nein</td>
+<td>ja (Erste 64 Bit)</td>
+</tr>
+<tr>
+<td>Fehlerhafte Frames weiterleiten</td>
+<td>nein</td>
+<td>ja</td>
+<td>nach 64 Bit</td>
+</tr>
+<tr>
+<td>Latenz (Verzogerungszeit)</td>
+<td>hoch</td>
+<td>niedrig</td>
+<td>mittel</td>
+</tr>
+<tr>
+<td>Datenintegrität</td>
+<td>hoch</td>
+<td>niedrig</td>
+<td>mittel</td>
+</tr>
+</table>
 
 ## IPv4-Header-Felder
 

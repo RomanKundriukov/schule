@@ -27,4 +27,15 @@
 Aktivierung von Auto-MDIX:
 </td>
 </tr>
+<tr>
+<td>ip route 10.1.1.0 255.255.255.0 209.165.200.226</td>
+<td>Das Kommando fügt eine statische Route in die Routing-Tabelle ein. Es bedeutet:
+ Pakete für das Zielnetzwerk 10.1.1.0/24 (Subnetzmaske: 255.255.255.0) sollen über den nächsten Hop (Router) mit der IP-Adresse 209.165.200.226 geleitet werden.
+</td>
+</tr>
+<tr>
+<td>tracet "Ziel IP-Adresse oder Host-Name"</td>#
+<td>IPv4: Der Befehl sendet ICMP (oder manchmal UDP)-Pakete mit einer inkrementellen TTL (Time-To-Live). Jeder Router, der das Paket weiterleitet, reduziert die TTL um 1 und sendet bei Erreichen von TTL = 0 eine ICMP-Fehlermeldung zurück.
+Zweck: Es hilft, Netzwerkprobleme zu diagnostizieren, z. B. Verzögerungen oder Ausfälle auf bestimmten Routen.</td>
+</tr>
 </table>
