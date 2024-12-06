@@ -14,7 +14,7 @@
             <p>4 Byte</p>
         </td>
         <td>
-            <p>6 Byte</p>
+            <p>4 Byte</p>
         </td>
     </tr>
     <tr>
@@ -22,7 +22,7 @@
             <p>32 Bits</p>
         </td>
         <td>
-            <p>48 Bits</p>
+            <p>32 Bits</p>
         </td>
     </tr>
     </tbody>
@@ -135,17 +135,21 @@
 </tr>
 </table>
 
-## Wlan (802.11) - Standorts
+## Wlan
+ - Wi-Fi1 802.11
+ - Wi-Fi2 802.11n
+## LAN
 L2 - Data Link Layer besteht aus 2 Sublayers
 - LLC IEEE 802.2
-    - IEEE -> Data Flow
-    - 802.2 -> Protokollerkennung 
-        - IPv4
-        - IPv6
-        - ARP
+    - Data Flow
+    - Protokollerkennung 
+    - IPv4
+    - IPv6
+    - ARP
 - MAC IEEE 802.3
     - Adressierung
     - Fehlererkennung
+    - Steuerung der Netzwerkkarte
 
 WPAN IEEE 802.15 -> Bluetooth, RFID, etc
 
@@ -213,7 +217,7 @@ Frame Check Sequence (FCS):
 Diese Struktur stellt sicher, dass Ethernet-Frames effizient und fehlerfrei übertragen werden.
 
 ## MAC - Adresse
-- 6 bite -> 48 bit
+- 6 byte -> 48 bit
 - besteht aus 12 Hexadezimal Ziffern
 
 - Unicast: 
@@ -272,7 +276,7 @@ Reservierte Multicast-Adresse
 <th>Cut-Through -> Fragment Free</th>
 </tr>
 <tr>
-<td>Fehlererkennung CRC()Prüfsumme</td>
+<td>Fehlererkennung CRC (Prüfsumme)</td>
 <td>ja</td>
 <td>nein</td>
 <td>ja (Erste 64 Bit)</td>
@@ -322,6 +326,7 @@ Reservierte Multicast-Adresse
     - Gibt die Position des Fragments im ursprünglichen Paket an.
 
 8. Time to Live (TTL):
+    - TTL Paket wird zwar verworfen sendet, aber noch einen ICMP an die Quell Adresse
     - 8-Bit-Feld, das die Lebensdauer eines Pakets in Hops begrenzt.
     - Wird bei jedem Router um 1 verringert; erreicht der Wert 0, wird das Paket verworfen.
 
