@@ -384,3 +384,6 @@ switch(config-if)# end
 #### Zusammenfassung
 
     - Mit Auto-MDIX können Sie Geräte flexibel mit beliebigen Ethernet-Kabeln verbinden, ohne sich um den Kabeltyp kümmern zu müssen. Es vereinfacht die Netzwerkinfrastruktur erheblich.
+
+## Autonegoation
+- Autonegotiation ist ein Kommunikationsprotokoll in Netzwerken, das es Geräten wie Netzwerkadaptern oder Switches ermöglicht, automatisch die besten gemeinsamen Einstellungen (z. B. Geschwindigkeit und Duplexmodus) auszuhandeln. Ziel ist eine optimale Verbindung, ohne manuelle Konfiguration.
