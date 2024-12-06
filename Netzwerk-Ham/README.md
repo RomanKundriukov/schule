@@ -14,7 +14,7 @@
             <p>4 Byte</p>
         </td>
         <td>
-            <p>8 Byte</p>
+            <p>6 Byte</p>
         </td>
     </tr>
     <tr>
@@ -135,7 +135,7 @@
 </tr>
 </table>
 
-## Wlan - Standorts
+## Wlan (802.11) - Standorts
 L2 - Data Link Layer besteht aus 2 Sublayers
 - LLC IEEE 802.2
     - IEEE -> Data Flow
