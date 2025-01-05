@@ -1,4 +1,4 @@
-## Service-Arten
+# Service-Arten
 ### IMAC/R/D - Modell
 
 ![IMACRD_modell](/BWL/images/imacrd_modell.webp)
@@ -42,12 +42,12 @@
     - Recycling
     - Wiedervermarktung nicht mehr benötiger IT
 
-## Incidents, Service-Requests, Events
+# Incidents, Service-Requests, Events
 
  - Event :
     - Ereignis aufgrund automatisierten Überwachung (Information, Warnung, Exception -> Incident)
 
-- Uncident / Major Incidents :
+- Incident / Major Incidents :
     - Vorfall (unvorgehergesehene Störung der Serviceleistung)
 
 - Service Request : 
@@ -59,7 +59,7 @@
 - SLA : 
     - Service Level Agreements (Vertrag zwischen Serviceanbieter und Kunde)
 
-### Incident / Service - Requestmanagement (First Level Support)
+# Incident / Service - Requestmanagement (First Level Support)
     - beschreibt den systematischen Ansatz zur Identifikation, Analyse, Priorisierung und Lösung von Störungen oder Vorfällen innerhalb eines Unternehmens. Ziel ist es, die Auswirkungen auf die Geschäftsprozesse zu minimieren und die Betriebsfähigkeit schnellstmöglich wiederherzustellen.
 
 ###
@@ -70,7 +70,7 @@
     - MTTR - Mean time to repair
     - MTBF - Mean time between failures
 
-## Kommunikationsmodelle
+# Kommunikationsmodelle
 
 ### 4-Seiten-Modell
 
@@ -111,7 +111,7 @@
         - Erwachsenen-Ich: Sachlich, rational.
         - Kind-Ich: Rebellisch, emotional, kreativ.
 
-## Deeskalationsstrategien
+# Deeskalationsstrategien
 
 ![eskalationsstufen](/BWL/images/eskalationsstufen.jpg)
 
@@ -121,12 +121,75 @@
       oder physische Beeinträchtigungen oder Verletzungen eines Menschen zu 
       vermeiden, wann immer und wo immer das möglich ist.
 
-## Service Level Agreements (SMART)
+# Eskalation: Begriff und Typen
 
-    - Ein Service Level Agreement (SLA) ist eine vertragliche Vereinbarung 
-      zwischen einem Dienstleister und einem Kunden. Es definiert die 
-      Dienstleistungen, die der Anbieter erbringen muss, und legt spezifische 
-      Leistungskennzahlen (Service Levels) fest, die einzuhalten sind.
+### Begriff:
+    
+    - Eskalation bezeichnet den Vorgang, bei dem ein Problem, eine Anfrage oder ein Incident (Vorfall) an eine höhere Ebene innerhalb einer Organisation weitergeleitet wird, um eine Lösung zu finden. Dies geschieht, wenn:
+        
+        - Das Problem nicht auf der aktuellen Ebene gelöst werden kann.
+        
+        - Die Reaktions- oder Lösungszeit überschritten wird.
+        
+        - Die Auswirkungen des Problems groß sind und eine schnelle oder autoritative Entscheidung erforderlich ist.
+    
+    Eskalation ist ein zentraler Bestandteil des Incident-Managements und hilft, sicherzustellen, dass Probleme effizient bearbeitet werden.
+
+### Typen der Eskalation
+
+1. Funktionale Eskalation
+    
+    - Definition: Die Weitergabe eines Problems an ein spezialisiertes Team oder eine Person mit höherem technischem Fachwissen oder Erfahrung.
+
+    - Beispiele:
+        
+        - Ein Incident wird vom First-Level-Support an den Second-Level-Support weitergeleitet.
+
+        - Ein technisches Problem wird an einen Entwickler oder Systemadministrator eskaliert.
+    
+    - Ziel: Sicherstellen, dass Experten mit der nötigen Kompetenz an der Lösung arbeiten.
+
+2. Hierarchische Eskalation
+
+    - Definition: Die Weitergabe eines Problems an eine höhere Führungsebene oder Management, wenn:
+        
+        - Entscheidungen über Budgets, Ressourcen oder Prioritäten erforderlich sind.
+
+        - Die Dringlichkeit oder die Auswirkungen auf das Geschäft groß sind.
+    
+    - Beispiele: 
+
+        - Ein Kunde fordert eine Lösung, die über die Kompetenzen des aktuellen Ansprechpartners hinausgeht.
+
+        - Ein kritisches Problem wird vom Teamleiter an die Geschäftsführung eskaliert.
+    
+    - Ziel: Schnelle Entscheidungsfindung und Zuweisung von Ressourcen durch Personen mit Entscheidungsbefugnis.
+
+### Kombination der Eskalationstypen
+
+- Oft können funktionale und hierarchische Eskalationen kombiniert auftreten. Beispiel:
+    - Ein technisches Problem wird zunächst an den Second-Level-Support eskaliert (funktional). Wenn es zu Verzögerungen kommt oder die Auswirkungen erheblich sind, wird es zusätzlich an das Management eskaliert (hierarchisch).
+
+### Wann ist eine Eskalation erforderlich?
+
+1. Zeitüberschreitung: Wenn die festgelegte Reaktionszeit (z. B. SLA) überschritten wird.
+
+2. Unzureichende Ressourcen: Wenn die aktuelle Ebene das Problem nicht lösen kann.
+
+3. Dringlichkeit: Wenn ein Problem die Geschäftskontinuität bedroht (z. B. Systemausfall).
+
+4. Kundenanforderungen: Wenn ein Kunde eine spezielle Entscheidung oder höhere Autorität fordert.
+
+### Beispiele für Eskalation im IT-Kontext
+
+- Ein Netzwerkproblem wird vom First-Level-Support nicht gelöst und an den Second-Level-Support eskaliert.
+
+- Ein kritischer Sicherheitsvorfall wird direkt an die IT-Leitung und das Security-Team eskaliert.
+
+# Service Level Agreements (SMART)
+    
+    - Ein Service Level Agreement (SLA) ist eine vertragliche 
+    Vereinbarung zwischen einem Dienstleister und einem Kunden. Es definiert die Dienstleistungen, die der Anbieter erbringen muss, und legt spezifische Leistungskennzahlen (Service Levels) fest, die einzuhalten sind.
 
     
 ### Wesentliche Inhalte eines SLA
@@ -222,7 +285,7 @@
 
     - Beispiel: „Wöchentliche Berichterstattung über die Bearbeitungszeit von Anfragen.“
 
-## Kennzahlensysteme im Incident-Management
+# Kennzahlensysteme im Incident-Management
 
 1. Mean Time to respond (MTTR)
     - Definition: Durchschnittliche Zeitspanne zwischen der Erfassung eines Incidents und der ersten Reaktion des Support-Teams.
@@ -298,7 +361,7 @@
 6. Verfügbarkeit: Maß für Systemzuverlässigkeit.
 7. First-Level-Lösungsquote: Indikator für die Effizienz der ersten Support-Ebene.
 
-## Problem-Management
+# Problem-Management
 Das Problem-Management ist ein zentraler Bestandteil des IT-Service-Managements (ITSM) und befasst sich mit der Identifikation, Analyse und Lösung von Ursachen für wiederkehrende oder schwerwiegende Incidents. Ziel ist es, die Auswirkungen von Problemen auf die Geschäftsprozesse zu minimieren und langfristige Lösungen zu entwickeln.
 
 ### Ziele des Problem-Managements
@@ -427,7 +490,7 @@ Das Problem-Management ist ein zentraler Bestandteil des IT-Service-Managements 
 </tbody>
 </table>
 
-## Change Management
+# Change Management
 
 Change Management beschreibt die systematische Planung, Steuerung und Implementierung von Änderungen innerhalb eines Unternehmens oder einer IT-Organisation. Ziel ist es, Veränderungen effektiv und kontrolliert durchzuführen, um negative Auswirkungen auf den laufenden Betrieb zu minimieren und positive Ergebnisse zu maximieren.
 
