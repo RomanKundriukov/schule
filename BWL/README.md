@@ -196,12 +196,12 @@
 
 # Service Level Agreements (SMART)
     
-> Ein Service Level Agreement (SLA) ist eine vertragliche Vereinbarung zwischen einem Dienstleister und einem Kunden. Es definiert die Dienstleistungen, die der Anbieter erbringen muss, und legt spezifische Leistungskennzahlen (Service Levels) fest, die einzuhalten sind.
+> Ein Service Level Agreement (SLA) ist eine verträgliche Vereinbarung zwischen einem Dienstleister und einem Kunden. Es definiert die Dienstleistungen, die der Anbieter erbringen muss, und legt spezifische Leistungskennzahlen (Service Levels) fest, die einzuhalten sind.
 
     
 ## Wesentliche Inhalte eines SLA
     
-1. **Zeilsetzung**
+1. **Zielsetzung**
     - **Bedeutung**: Definiert, welche Ziele mit dem SLA erreicht werden sollen, z. B. Verbesserung der Servicequalität oder Minimierung von Ausfallzeiten.
     
     -  **Beispiel**: „Das Ziel dieses SLA ist die Sicherstellung einer hohen Verfügbarkeit des IT-Systems.“
@@ -260,7 +260,7 @@
     - **Beispiel**: „Änderungen dieses Vertrags bedürfen der Schriftform.“
 
 12. **Erfüllungsort / Gerichtsstand**
-    - **Bedeutung**: Legt fest, wo die vertraglichen Leistungen erbracht werden und welcher Gerichtsstand im Streitfall gilt.
+    - **Bedeutung**: Legt fest, wo die verträglichen Leistungen erbracht werden und welcher Gerichtsstand im Streitfall gilt.
 
     - **Beispiel**: „Erfüllungsort ist Stuttgart, Gerichtsstand ist das Amtsgericht Stuttgart.“
 
@@ -342,7 +342,7 @@
     - **Zweck**: Hilft, Probleme zu identifizieren, die wiederholt auftreten, und Maßnahmen zur Problembehebung (Problem-Management) einzuleiten.
 
 6. **Verfügbarkeit** : ( Ausfallzeit / Gesamtlaufzeit) * 100
-    -** Definition**: Prozentuale Verfügbarkeit eines Systems oder Services im Verhältnis zur Gesamtlaufzeit.
+    - **Definition**: Prozentuale Verfügbarkeit eines Systems oder Services im Verhältnis zur Gesamtlaufzeit.
 
     - **Berechnung**:
 
