@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"17efb92ca1b7e11f","type":"text","text":"# Anbieter #","x":-420,"y":-60,"width":500,"height":60},
+		{"id":"e3a6a874112aefd8","type":"text","text":"# Nachfrager # ","x":-420,"y":-120,"width":500,"height":60},
+		{"id":"372f4264d8eb400a","type":"text","text":"# Marktform #","x":-170,"y":40,"width":250,"height":90},
+		{"id":"08911d30c107b6ef","type":"text","text":"# Viele #","x":-420,"y":40,"width":250,"height":320},
+		{"id":"e5a2576f9a19fa08","type":"text","text":"# Viele #","x":120,"y":-120,"width":300,"height":120},
+		{"id":"f91b29b7d6bdab50","type":"text","text":"# Wenige #","x":420,"y":-120,"width":280,"height":120},
+		{"id":"31d02e1f0550ca58","type":"text","text":"# Einer #","x":700,"y":-120,"width":300,"height":120},
+		{"id":"cce8fc9e1c22e89a","type":"text","text":"## zweiseitigespolipol ##","x":120,"y":40,"width":300,"height":90},
+		{"id":"e08ae20be49ae750","type":"text","text":"==Wochenmarkt:==\nObst- und Gemüsehändler als Anbieter - Menschen als Nachfrager","x":120,"y":130,"width":300,"height":230},
+		{"id":"f670c661eb83e913","type":"text","text":"## Nachfrageoligopol ##","x":420,"y":40,"width":280,"height":90},
+		{"id":"7bd335b9fe012e52","type":"text","text":"==Obstmarkt:==\nObsterzeuger eines bestimmten Gebiets (z.B. für Zwetschgen, Kirschen) als Anbieter - Obstverwertungsbetriebe (Brennereien, Mostereien) als Nachfrager","x":420,"y":130,"width":280,"height":230},
+		{"id":"a22a14255d9d0550","type":"text","text":"## Nachfragemonopol ##","x":700,"y":40,"width":300,"height":90},
+		{"id":"2d0ef9859acb89a9","type":"text","text":"==Baubranche:==\nBaufirmen die Großprojekte realisieren können (z.B. Autobahnen, Tunnels) - Staat als Auftraggeber","x":700,"y":130,"width":300,"height":230},
+		{"id":"28f08c49be76d07f","type":"text","text":"# Beispiel #","x":-170,"y":130,"width":250,"height":230},
+		{"id":"3bcfe4fe4186dfcb","type":"text","text":"## Angebotsoligopol ##","x":120,"y":400,"width":300,"height":92},
+		{"id":"4e6c4131bc9543b7","type":"text","text":"==Benzinmarkt:== Mineralölgesellschaften (Esso, BP, Shell, DEA) als Anbieter - Autofahrer als Nachfrager von Mineralklprodukten","x":120,"y":492,"width":300,"height":218},
+		{"id":"0a69772c7fb967be","type":"text","text":"# Wenige #","x":-420,"y":400,"width":250,"height":310},
+		{"id":"7a0e69febf24a89e","type":"text","text":"# Marktform #","x":-170,"y":400,"width":250,"height":100},
+		{"id":"f79f8c908d6ad752","type":"text","text":"## Zweiseitigesoligopol ##","x":420,"y":400,"width":280,"height":92},
+		{"id":"6b035156370d161a","type":"text","text":"## Beschränktes Nachfragemonopol ##","x":700,"y":400,"width":300,"height":92},
+		{"id":"a3c181d7ae7a68b5","type":"text","text":"# Beispiel #","x":-170,"y":500,"width":250,"height":210},
+		{"id":"a0bb380bbdef97ca","type":"text","text":"==Markt für4 medizinische Spezialgeräte:==\nHersteller von medizinischen Spezialgeräten - Krankenhäuser als Nachfrager","x":420,"y":852,"width":280,"height":218},
+		{"id":"43d57b0cead7b7be","type":"text","text":"==Markt für Sonderanfertigungen:==\nHersteller eines Maschineneinzelteils (Sonderanfertigung) - Maschinenfabrik als Auftraggeber","x":700,"y":852,"width":300,"height":218},
+		{"id":"c9b4affd2e7c4acb","type":"text","text":"## Angebotsmonopol ##","x":120,"y":760,"width":300,"height":92},
+		{"id":"e00d071c828c167e","type":"text","text":"==Gatronomie:==\nEinzige Gaststätte aus einer Insel in der Nordsee - Touristen und Einheimische als Nachfrager von Gastronomieleistungen","x":120,"y":852,"width":300,"height":218},
+		{"id":"160b0cbebc2aed98","type":"text","text":"# Einer #","x":-420,"y":760,"width":250,"height":310},
+		{"id":"675afd4bbb3403a0","type":"text","text":"# Marktform #","x":-170,"y":760,"width":250,"height":100},
+		{"id":"1a654b40d6bc2136","type":"text","text":"## Beschränktes Angebotsmonopol ##","x":420,"y":760,"width":280,"height":92},
+		{"id":"3904765b8cb510a2","type":"text","text":"## Zweiseitiges Monopol ##","x":700,"y":760,"width":300,"height":92},
+		{"id":"b14466f7332666b6","type":"text","text":"# Beispiel #","x":-170,"y":860,"width":250,"height":210},
+		{"id":"9c1d6794512a34d4","type":"text","text":"==Markt für Militärfahrzeuge:==Hersteller von Militärfahrzeugen - Staat als Auftraggeber","x":700,"y":492,"width":300,"height":218},
+		{"id":"fb5ca5c8b7a7ec03","type":"text","text":"==Flugzeugmarkt:== Hersteller von Verkehrsflugzeugen (in Europa und USA) als Anbieter - Luftfahrtgesellschaften als Auftraggeber","x":420,"y":492,"width":280,"height":218}
+	],
+	"edges":[
+		{"id":"e5ea401b07548cd1","fromNode":"e3a6a874112aefd8","fromSide":"right","toNode":"e5a2576f9a19fa08","toSide":"left"},
+		{"id":"3a5c77d0bc65c105","fromNode":"17efb92ca1b7e11f","fromSide":"bottom","toNode":"08911d30c107b6ef","toSide":"top"}
+	]
+}
