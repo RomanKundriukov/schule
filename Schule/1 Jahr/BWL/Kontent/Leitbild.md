@@ -5,7 +5,7 @@
 > Das Unternehmensleitbild ist fundamental, konkret, realistisch und zukunftsorientiert
 
 
-## 2. Aufbau der Leitbilder ![[../Img/Aufbau_der_leitbilder.png]]
+## 2. Aufbau der Leitbilder ![[Aufbau_der_Leitbilder.png]]
 >**Mission**
 >
 > Die Mission beschreibt, wie das Unternehmen seinen selbstdefinierten Auftrag in ein konkretes Geschäft umsetzt. Außerdem befasst sie sich mit der Frage was das Unternehmen grundsätzlich erreichen will.
@@ -22,7 +22,7 @@
 >
 >Ein weiteres Element sind die so genannten Policies und Practicies, also die Grund- und Kernwerte eines Leitbildes. Sie beschreiben die Grundsätze des Handelns im Unternehmen. Diese Grundwerte weisen häufig enge Beziehungen zu den strategischen Kompetenzen eines Unternehmens auf.
 
-## 3. Inhalt des Leitbildes ![Inhalt des Leitbildes](../Img/Inhalt_des_Leitbildes.png)
+## 3. Inhalt des Leitbildes ![Inhalt des Leitbildes](Inhalt_des_Leitbildes.png)
 
 **Die Leitidee**
 >

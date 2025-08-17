@@ -1,6 +1,6 @@
 # 1. Einliniensystem
 - ## Das Einliniensystem schafft vor allem klare Strukturen in den Kommunikationswegen und den Weisungsbefugnissen, inklusive der dazugehörigen Verantwortlichkeiten. ##
-![[../Img/einliniensystem.png]]
+![[einliniensystem.png]]
 
 | Vorteile                                                                                                              | Nachteile                                                                           |
 | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
@@ -14,7 +14,7 @@
 
 - ## Das Mehrliniensystem stellt eine **Grundform für die hierarchische Aufbauorganisation eines Unternehmens dar**. Das Besondere ist, dass die untergeordneten Stellen und Organisationseinheiten mehrere übergeordnete Instanzen aufweisen. Eine übergeordnete Instanz ist also gegenüber mehreren untergeordneten Stellen weisungsbefugt. 
 - ##
-![[../Img/mehrliniensystem.png]]
+![[mehrliniensystem.png]]
 
 | Vorteile                                                                                                 | Nachteile                                                                                    |
 | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
@@ -28,7 +28,7 @@
 
 - ## Die Stablinienorganisation ist eine **Form der betrieblichen Aufbauorganisation**, die ihre **Grundzüge im Einliniensystem** hat. Jedoch wird das Konzept des Einliniensystem um die Einführung von Stabsstellen ergänzt. ##
 
-![[../Img/stablinienorganisation.png]]
+![[stablinienorganisation.png]]
 
 | Vorteile                                                                                                                                         | Nachteile                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
@@ -43,7 +43,7 @@
 
 - ## Charakteristisch für die **divisionale Organisation** ist, dass die Sparten separat voneinander agieren und demnach auch jeweils gewinn- und funktionsverantwortlich sind. Die Unternehmensleitung stellt dabei die zentrale übergeordnete Ebene des Unternehmens dar. In den einzelnen Sparten sind daher die einzelnen Funktionsbereiche separat voneinander angesiedelt. ##
 
-![[../Img/spartenorganisation.png]]
+![[spartenorganisation.png]]
 
 | Vorteile                                                                                                                | Nachteile                                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -57,7 +57,7 @@
 # 5. Matrixorganisation
 - ## Bei der Matrixorganisation handelt es sich um eine **mehrdimensionale Organisationsstruktur**, welche innerhalb eines Unternehmens oder einer Organisation angewendet werden kann. Hierbei werden die Handlungskomplexe der Aufgaben im Unternehmen nach verschiedenen Kriterien zerlegt und den jeweiligen Bereichen zugeordnet. ##
 
-![[../Img/matrixorganisation.png]]
+![[matrixorganisation.png]]
 
 | Vorteile                                                                                  | Nachteile                                                                                                                    |
 | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |

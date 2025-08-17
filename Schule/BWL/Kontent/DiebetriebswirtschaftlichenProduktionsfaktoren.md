@@ -1,1 +1,0 @@
-## Schema ![[../Img/betriebswirtschaftlichenproduktionsFaktoren.png]]
