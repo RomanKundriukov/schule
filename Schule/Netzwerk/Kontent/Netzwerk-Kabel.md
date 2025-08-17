@@ -57,7 +57,7 @@
 | Kosten          | günstiger in der Installation für kurze Strecke | Teuer in der installation, aber Kostengünstig   |
 | Sicherheit      | Relativ leicht abzuhören                        | sehr schewr abzuhören, bietet höhere Sicherheit |
 
-![[../Img/Aufbau_Koaxkabel.png]]
+![[Aufbau_Koaxkabel.png]]
 
 ### Vorteile der Lichtwellenleiter gegenüber Kupferkabel
 

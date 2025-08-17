@@ -16,4 +16,4 @@
 15. [x] [KG](KG.md)
 16. [x] [GmbH](GmbH.md)
 17. [x] [GmbH & Co. KG](GmbH_&_Co._KG.md)
-18. [ ] [AG](AG.md)
+18. [x] [AG](AG.md)

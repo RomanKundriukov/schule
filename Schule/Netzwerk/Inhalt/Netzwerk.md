@@ -5,4 +5,4 @@
 4. [x] [IPv4 Addresse](IPv4-Addresse.md)
 5. [x] [Subnetzmaske](Subnetzmaske.md)
 6. [x] [WLAN](WLAN.md)
-7. [ ] [Netzwerk-Kabel](Netzwerk-Kabel.md)
+7. [x] [Netzwerk-Kabel](Netzwerk-Kabel.md)

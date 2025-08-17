@@ -11,11 +11,11 @@ Das OSI-Modell dient als Designgrundlage / Standardisierung für die Kommunikati
 | L2  | Sicherungsschicht                              | Data Link Layer    |
 | L1  | Physicalische Schicht / Bitübertragungsschicht | Physical Layer     |
 
-![[../Img/Capas-modelo-OSI.png]]
+![[Capas-modelo-OSI.png]]
 
 ## OSI-Modell Header
 
-![[../Img/osi-model-headers.png]]
+![[osi-model-headers.png]]
 
 ## L1: Bitübertragungsschicht 
 
