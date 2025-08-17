@@ -1,4 +1,13 @@
 {
-	"nodes":[],
-	"edges":[]
+	"nodes":[
+		{"id":"65478b364da2a2e2","type":"text","text":"Gewerkschaften (Arbeitsnehmervertretung)","x":-540,"y":110,"width":280,"height":90},
+		{"id":"c52c34c837169b16","x":-100,"y":110,"width":160,"height":90,"type":"text","text":"Tarifvertrag"},
+		{"id":"e94c1732aa08cc8a","type":"text","text":"Arbeitsgeberverbände (Arbeitsgebervertretung)","x":260,"y":110,"width":280,"height":90}
+	],
+	"edges":[
+		{"id":"5d3d83263d5487f2","fromNode":"65478b364da2a2e2","fromSide":"right","toNode":"c52c34c837169b16","toSide":"left"},
+		{"id":"fa9a5902e2a6f75c","fromNode":"c52c34c837169b16","fromSide":"right","toNode":"e94c1732aa08cc8a","toSide":"left"},
+		{"id":"cce3629f670db3d5","fromNode":"65478b364da2a2e2","fromSide":"bottom","toNode":"e94c1732aa08cc8a","toSide":"bottom"},
+		{"id":"f234eb02b426451d","fromNode":"e94c1732aa08cc8a","fromSide":"bottom","toNode":"65478b364da2a2e2","toSide":"bottom"}
+	]
 }

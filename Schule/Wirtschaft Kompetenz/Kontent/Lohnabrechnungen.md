@@ -1,0 +1,1 @@
+## Nettolohn = Bruttolohn - Lohnsteuer - Kirchensteuer - Sozialversicherungsbeiträge
