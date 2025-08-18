@@ -1,0 +1,1 @@
+![[../Img/Prüfungsvorbereitung.png]]

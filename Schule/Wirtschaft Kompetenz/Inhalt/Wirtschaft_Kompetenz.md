@@ -7,4 +7,4 @@
 7. [x] [Tarifvertrag](Tarifvertrag.md)
 8. [x] [Sozialversicherung](Sozialversicherung.md)
 9. [x] [Lohnabrechnungen](Lohnabrechnungen.md)
-10. [ ] [Einkommensteuererklärung](Einkommensteuererklärung.md)
+10. [x] [Einkommensteuererklärung](Einkommensteuererklärung.md)
