@@ -1,0 +1,1 @@
+1. [ ] [Strukturgramm_Klassendiagramm_Objectdiagramm](Strukturgramm_Klassendiagramm_Objectdiagramm.md)
