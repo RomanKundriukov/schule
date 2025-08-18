@@ -6,4 +6,4 @@
 5. [x] [Migration](Migration.md)
 6. [x] [Integration vs. Assimilation](Integration_Assimilation.md)
 7. [x] [Sozialstaat](Sozialstaat.md)
-8. [ ] [Medienkonsum](Medienkonsum.md)
+8. [x] [Medienkonsum](Medienkonsum.md)

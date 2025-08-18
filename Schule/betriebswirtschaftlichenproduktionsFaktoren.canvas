@@ -1,39 +1,14 @@
 {
 	"nodes":[
-		{"id":"7ea9ccee01f88130","x":-120,"y":60,"width":137,"height":60,"color":"3","type":"text","text":"Medien"},
-		{"id":"c947b96a7878cf93","type":"text","text":"Digitale","x":-500,"y":-140,"width":137,"height":60},
-		{"id":"c9b024e0fbd21756","type":"text","text":"Art","x":-340,"y":-20,"width":137,"height":60,"color":"5"},
-		{"id":"fd5fa6b756b53c44","type":"text","text":"Analog","x":-300,"y":-220,"width":137,"height":60},
-		{"id":"fa2913d76315554d","type":"text","text":"Radio","x":-705,"y":-220,"width":137,"height":60},
-		{"id":"96e8d152549b904e","type":"text","text":"TV","x":-705,"y":-110,"width":137,"height":60},
-		{"id":"c322086fe99388e8","type":"text","text":"Flyer","x":17,"y":-210,"width":137,"height":50},
-		{"id":"a67822f9aab28cca","type":"text","text":"Zeitschriften","x":-51,"y":-320,"width":163,"height":50},
-		{"id":"e2767ba7ae307915","type":"text","text":"Zeitungen","x":-203,"y":-370,"width":137,"height":50},
-		{"id":"f44f9e235ae8ec59","type":"text","text":"Internet","x":-705,"y":-320,"width":137,"height":50},
-		{"id":"490aa4531cc0d74f","type":"text","text":"Öffentlich-rechtlich (Gez- Gebühren)","x":222,"y":191,"width":198,"height":89},
-		{"id":"f8afab6779a02b34","type":"text","text":"Privat","x":220,"y":-100,"width":137,"height":50},
-		{"id":"5eb60dd394e8918d","type":"text","text":"Verantwortung","x":180,"y":60,"width":177,"height":50,"color":"5"},
-		{"id":"221814621b608e25","type":"text","text":"Fake News (Falschinformation)","x":-340,"y":340,"width":200,"height":75},
-		{"id":"7aff0c55487bb90d","type":"text","text":"Beeinflussung","x":-51,"y":390,"width":177,"height":50},
-		{"id":"223f13cb8767ce38","type":"text","text":"Probleme","x":-140,"y":191,"width":177,"height":50,"color":"5"},
-		{"id":"12939718e1d2eed6","type":"text","text":"Kontrolle","x":-408,"y":216,"width":177,"height":50}
+		{"id":"9a38468931ac6249","type":"text","text":"Nachricht (Signal)\n\nKanal (Sprache, Schrift, Körpersprache)","x":-380,"y":-160,"width":250,"height":140},
+		{"id":"ffd81fe10a526ee5","x":-740,"y":-160,"width":250,"height":60,"type":"text","text":"Sender (Sprecher)"},
+		{"id":"aace354397db7fd1","type":"text","text":"Sender (Sprecher)","x":-40,"y":-160,"width":250,"height":60},
+		{"id":"a56f20c2a25436ab","type":"text","text":"Ziel = Verständigung","x":-380,"y":80,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"d8b1ea3f6c7e34ce","fromNode":"7ea9ccee01f88130","fromSide":"left","toNode":"c9b024e0fbd21756","toSide":"bottom"},
-		{"id":"9b01127000e49f36","fromNode":"c9b024e0fbd21756","fromSide":"left","toNode":"c947b96a7878cf93","toSide":"bottom"},
-		{"id":"ba348130adf41dad","fromNode":"c9b024e0fbd21756","fromSide":"top","toNode":"fd5fa6b756b53c44","toSide":"bottom"},
-		{"id":"2c43bf8dcc288d6c","fromNode":"c947b96a7878cf93","fromSide":"left","toNode":"96e8d152549b904e","toSide":"right"},
-		{"id":"19086ed1ed4a0eee","fromNode":"c947b96a7878cf93","fromSide":"left","toNode":"fa2913d76315554d","toSide":"right"},
-		{"id":"2412567dde8491c5","fromNode":"c947b96a7878cf93","fromSide":"left","toNode":"f44f9e235ae8ec59","toSide":"bottom"},
-		{"id":"f1d59d2cf78ec490","fromNode":"fd5fa6b756b53c44","fromSide":"right","toNode":"c322086fe99388e8","toSide":"left"},
-		{"id":"5d4c9c86e7cc60ec","fromNode":"fd5fa6b756b53c44","fromSide":"right","toNode":"a67822f9aab28cca","toSide":"left"},
-		{"id":"fbaf2211c2779a02","fromNode":"fd5fa6b756b53c44","fromSide":"right","toNode":"e2767ba7ae307915","toSide":"bottom"},
-		{"id":"c91c23760cd3e5f3","fromNode":"7ea9ccee01f88130","fromSide":"right","toNode":"5eb60dd394e8918d","toSide":"left"},
-		{"id":"b5553c51b5451b6d","fromNode":"5eb60dd394e8918d","fromSide":"top","toNode":"f8afab6779a02b34","toSide":"bottom"},
-		{"id":"4d33374c7f95d075","fromNode":"5eb60dd394e8918d","fromSide":"bottom","toNode":"490aa4531cc0d74f","toSide":"top"},
-		{"id":"94043d3650ff414b","fromNode":"7ea9ccee01f88130","fromSide":"bottom","toNode":"223f13cb8767ce38","toSide":"top"},
-		{"id":"d9c8654004aaf392","fromNode":"223f13cb8767ce38","fromSide":"left","toNode":"12939718e1d2eed6","toSide":"right"},
-		{"id":"616cf5cb42e2f8f2","fromNode":"223f13cb8767ce38","fromSide":"bottom","toNode":"221814621b608e25","toSide":"top"},
-		{"id":"e3b30c02af528591","fromNode":"223f13cb8767ce38","fromSide":"bottom","toNode":"7aff0c55487bb90d","toSide":"top"}
+		{"id":"4ee6e0040e240033","fromNode":"ffd81fe10a526ee5","fromSide":"right","toNode":"9a38468931ac6249","toSide":"left"},
+		{"id":"adeb4694e6f6cec5","fromNode":"9a38468931ac6249","fromSide":"right","toNode":"aace354397db7fd1","toSide":"left"},
+		{"id":"3d591e8d71275323","fromNode":"ffd81fe10a526ee5","fromSide":"bottom","toNode":"a56f20c2a25436ab","toSide":"left"},
+		{"id":"4560165141fe6f32","fromNode":"a56f20c2a25436ab","fromSide":"right","toNode":"aace354397db7fd1","toSide":"bottom"}
 	]
 }
