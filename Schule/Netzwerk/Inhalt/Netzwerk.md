@@ -6,3 +6,5 @@
 5. [x] [Subnetzmaske](Subnetzmaske.md)
 6. [x] [WLAN](WLAN.md)
 7. [x] [Netzwerk-Kabel](Netzwerk-Kabel.md)
+8. [x] [Ethernet](Ethernet.md)
+9. [ ] [IoT](IoT.md)

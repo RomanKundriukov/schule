@@ -1,14 +1,23 @@
 {
 	"nodes":[
-		{"id":"9a38468931ac6249","type":"text","text":"Nachricht (Signal)\n\nKanal (Sprache, Schrift, Körpersprache)","x":-380,"y":-160,"width":250,"height":140},
-		{"id":"ffd81fe10a526ee5","x":-740,"y":-160,"width":250,"height":60,"type":"text","text":"Sender (Sprecher)"},
-		{"id":"aace354397db7fd1","type":"text","text":"Sender (Sprecher)","x":-40,"y":-160,"width":250,"height":60},
-		{"id":"a56f20c2a25436ab","type":"text","text":"Ziel = Verständigung","x":-380,"y":80,"width":250,"height":60}
+		{"id":"c85a53edabe5be23","x":-840,"y":-940,"width":250,"height":60,"type":"text","text":"Gesetzentwürfe durch: BR, BT, Regierung"},
+		{"id":"2fc37c39344c8c3b","type":"text","text":"BT: 1 Lesung","x":-840,"y":-840,"width":250,"height":60},
+		{"id":"355d856d8d797c7e","type":"text","text":"Beratung Ausschüsse","x":-840,"y":-740,"width":250,"height":60},
+		{"id":"73e41e0259b44de3","type":"text","text":"BT: 2 + 3 Lesung","x":-840,"y":-640,"width":250,"height":60},
+		{"id":"1986d6e4df1d4e6d","type":"text","text":"BR: Abstimmung","x":-840,"y":-540,"width":250,"height":60},
+		{"id":"37fef5a789ccac91","type":"text","text":"Zustimmung / Kein Anspruch","x":-1160,"y":-440,"width":250,"height":60},
+		{"id":"bb279e8c1202bdc0","type":"text","text":"Bundespräsident","x":-910,"y":-180,"width":250,"height":60},
+		{"id":"07f2992042369ccb","type":"text","text":"Einspruch","x":-520,"y":-440,"width":250,"height":60},
+		{"id":"ec5888701d56ab79","type":"text","text":"Regierung","x":-1160,"y":-280,"width":250,"height":60},
+		{"id":"ae65c7a91ece190f","type":"text","text":"Vermittlungsausschuss","x":-440,"y":-310,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"4ee6e0040e240033","fromNode":"ffd81fe10a526ee5","fromSide":"right","toNode":"9a38468931ac6249","toSide":"left"},
-		{"id":"adeb4694e6f6cec5","fromNode":"9a38468931ac6249","fromSide":"right","toNode":"aace354397db7fd1","toSide":"left"},
-		{"id":"3d591e8d71275323","fromNode":"ffd81fe10a526ee5","fromSide":"bottom","toNode":"a56f20c2a25436ab","toSide":"left"},
-		{"id":"4560165141fe6f32","fromNode":"a56f20c2a25436ab","fromSide":"right","toNode":"aace354397db7fd1","toSide":"bottom"}
+		{"id":"63d2029e3ef244ce","fromNode":"c85a53edabe5be23","fromSide":"bottom","toNode":"2fc37c39344c8c3b","toSide":"top"},
+		{"id":"36afc54ddd86ba87","fromNode":"2fc37c39344c8c3b","fromSide":"bottom","toNode":"355d856d8d797c7e","toSide":"top"},
+		{"id":"8a6267e2893c7d54","fromNode":"355d856d8d797c7e","fromSide":"bottom","toNode":"73e41e0259b44de3","toSide":"top"},
+		{"id":"ed81a9c8564b4b37","fromNode":"73e41e0259b44de3","fromSide":"bottom","toNode":"1986d6e4df1d4e6d","toSide":"top"},
+		{"id":"78f6e276e27fd641","fromNode":"1986d6e4df1d4e6d","fromSide":"left","toNode":"37fef5a789ccac91","toSide":"top"},
+		{"id":"4c23aef3b8e75d77","fromNode":"1986d6e4df1d4e6d","fromSide":"right","toNode":"07f2992042369ccb","toSide":"top"},
+		{"id":"7856f1123f7d3e5d","fromNode":"ec5888701d56ab79","fromSide":"bottom","toNode":"bb279e8c1202bdc0","toSide":"left"}
 	]
 }
