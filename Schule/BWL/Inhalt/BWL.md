@@ -1,19 +1,19 @@
 
-1. [x]  [Die betriebswirtschaftlichen Produktionsfaktoren](Die_betriebswirtschaftlichen_Produktionsfaktoren.md)
-2. [x]  [Marktformen](Marktformen.md)
-3. [x] [Unternehmersleitbild](Leitbild.md)
-4. [x] [Unternehmensziele](Ziele.md)
-5. [x] [Aufbauorganisation](Aufbauorganisation.md)
-6. [x] [Geschäftsprozesse & EPK](Geschäftsprozesse&EPK.md)
-7. [x] [Projektplanung & Gantt-Diagramm](Projektplanung&Gantt-Diagramm.md) 
-8. [x] [Scrum](Scrum.md)
-9. [x] [Bezugskalkulation](Bezugskalkulation.md)
-10. [x] [Angebotsvergleich](Angebotsvergleich.md)
-11. [x] [Kaufmannseigenschaften](Kaufmannseigenschaften.md)
-12. [x] [Gbr](Gbr.md)
-13. [x] [Einzelunternehmen](Einzelunternehmen.md)
-14. [x] [OHG](OHG.md)
-15. [x] [KG](KG.md)
-16. [x] [GmbH](GmbH.md)
-17. [x] [GmbH & Co. KG](GmbH_&_Co._KG.md)
-18. [x] [AG](AG.md)
+1. [x] [Die betriebswirtschaftlichen Produktionsfaktoren](Die_betriebswirtschaftlichen_Produktionsfaktoren.md) ✅ 2025-08-20
+2. [x] [Marktformen](Marktformen.md) ✅ 2025-08-20
+3. [x] [Unternehmersleitbild](Leitbild.md) ✅ 2025-08-20
+4. [x] [Unternehmensziele](Ziele.md) ✅ 2025-08-20
+5. [x] [Aufbauorganisation](Aufbauorganisation.md) ✅ 2025-08-20
+6. [x] [Geschäftsprozesse & EPK](Geschäftsprozesse&EPK.md) ✅ 2025-08-20
+7. [x] [Projektplanung & Gantt-Diagramm](Projektplanung&Gantt-Diagramm.md) ✅ 2025-08-20
+8. [x] [Scrum](Scrum.md) ✅ 2025-08-20
+9. [x] [Bezugskalkulation](Bezugskalkulation.md) ✅ 2025-08-20
+10. [x] [Angebotsvergleich](Angebotsvergleich.md) ✅ 2025-08-20
+11. [x] [Kaufmannseigenschaften](Kaufmannseigenschaften.md) ✅ 2025-08-20
+12. [x] [Gbr](Gbr.md) ✅ 2025-08-20
+13. [x] [Einzelunternehmen](Einzelunternehmen.md) ✅ 2025-08-20
+14. [x] [OHG](OHG.md) ✅ 2025-08-20
+15. [x] [KG](KG.md) ✅ 2025-08-20
+16. [x] [GmbH](GmbH.md) ✅ 2025-08-20
+17. [x] [GmbH & Co. KG](GmbH_&_Co._KG.md) ✅ 2025-08-20
+18. [x] [AG](AG.md) ✅ 2025-08-20
