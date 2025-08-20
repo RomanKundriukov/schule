@@ -1,1 +1,1 @@
-1. [x] [Strukturgramm_Klassendiagramm_Objectdiagramm](Strukturgramm_Klassendiagramm_Objectdiagramm.md) ✅ 2025-08-20
+1. [x] [Strukturgramm Klassendiagramm Objectdiagramm](Strukturgramm%20Klassendiagramm%20Objectdiagramm.md) ✅ 2025-08-20
