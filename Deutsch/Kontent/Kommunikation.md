@@ -38,3 +38,13 @@
 | Formelle Gespräch                                                                                                                                                                                                                           | Informelle Gespräch                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Bei <u>formellen Gesprächen</u> stehen die Gesprächsteilnehmer in einer sachlichen / geschäftlichen Beziehung.<br>Gesprächsort, -zeit und -teilnehmer sind genau bestimmt. Auch die Gesprächsform wird vom Leiter des Gesprächs festgelegt. | <u>Informelle Gespräch</u> finden meist ungeplant statt und dienen überwiegend dem persönlichen Informationsaustausch und der Unterhaltung. Die Gesprächsteilnehmer stehen in einer lockeren, überwiegend persönlichen Beziehung. |
+
+---
+
+## Eisbergmodell
+
+![[../Img/Eisbergmodell_WP_Bild_1-1024x576.jpg]]
+
+## Transaktionsanalyse
+
+![[../Img/Ich-Zustände-1024x576.jpg]]

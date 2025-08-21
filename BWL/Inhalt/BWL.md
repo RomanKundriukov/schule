@@ -4,10 +4,10 @@
 3. [x] [Unternehmersleitbild](Leitbild.md) ✅ 2025-08-20
 4. [x] [Unternehmensziele](Ziele.md) ✅ 2025-08-20
 5. [x] [Aufbauorganisation](Aufbauorganisation.md) ✅ 2025-08-20
-6. [x] [Geschäftsprozesse & EPK](Geschäftsprozesse&EPK.md) ✅ 2025-08-20
+6. [x] [Geschäftsprozesse & EPK](Geschäftsprozesse%20&%20EPK.md) ✅ 2025-08-20
 7. [x] [Projektplanung & Gantt-Diagramm](Projektplanung%20&%20Gantt-Diagramm.md) ✅ 2025-08-20
 8. [x] [Scrum](Scrum.md) ✅ 2025-08-20
-9. [x] [Bezugskalkulation](Bezugskalkulation.md) ✅ 2025-08-20
+9. [x] [Handelskalkulation und Rückwärtskalkulation](Handelskalkulation%20und%20Rückwärtskalkulation.md) ✅ 2025-08-20
 10. [x] [Angebotsvergleich](Angebotsvergleich.md) ✅ 2025-08-20
 11. [x] [Kaufmannseigenschaften](Kaufmannseigenschaften.md) ✅ 2025-08-20
 12. [x] [Gbr](Gbr.md) ✅ 2025-08-20
@@ -17,3 +17,16 @@
 16. [x] [GmbH](GmbH.md) ✅ 2025-08-20
 17. [x] [GmbH & Co. KG](GmbH%20&%20Co.%20KG.md) ✅ 2025-08-20
 18. [x] [AG](AG.md) ✅ 2025-08-20
+19. [x] [IT-Service](IT-Service.md) ✅ 2025-08-21
+20. [x] [Serviceanfragen](Serviceanfragen.md) ✅ 2025-08-21
+21. [x] [SMART Ziele](SMART%20Ziele.md) ✅ 2025-08-21
+22. [x] [Incident Management KPIs](Incident%20Management%20KPIs.md) ✅ 2025-08-21
+23. [x] [Eskalation und Deeskalation Strategien](Eskalation%20und%20Deeskalation%20Strategien.md) ✅ 2025-08-21
+24. [x] [Service Requests Change Management](Service%20Requests%20Change%20Management.md) ✅ 2025-08-21
+25. [x] [Zuschlagskalkulation](Zuschlagskalkulation.md) ✅ 2025-08-21
+26. [x] [Kostenrechnung](Kostenrechnung.md) ✅ 2025-08-21
+27. [x] [Betriebsabrechnungsbogen](Betriebsabrechnungsbogen.md) ✅ 2025-08-21
+28. [x] [Vollkostenrechnung Teilkostenrechnung](Vollkostenrechnung%20Teilkostenrechnung.md) ✅ 2025-08-21
+29. [x] [Deckungsbeitrag](Deckungsbeitrag.md) ✅ 2025-08-21
+30. [x] [Preisdifferenzierung](Preisdifferenzierung.md) ✅ 2025-08-21
+31. [ ] [Break-even-Point](Break-even-Point.md)

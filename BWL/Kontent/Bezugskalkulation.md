@@ -1,1 +1,0 @@
- ![[handelskalkulation-kalkulationsschema-rueckwaertskalkulation.png]]

@@ -15,9 +15,7 @@
 
 ![[projektziele.png]]
 
-## EPK
-
-## Regeln
+## Netzplan Regeln
 
 ![[Epk-Regeln1.png]]
 
