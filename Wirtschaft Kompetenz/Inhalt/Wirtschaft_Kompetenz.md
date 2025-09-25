@@ -28,3 +28,4 @@
 28. [x] [Kredite](Kredite.md) ✅ 2025-08-20
 29. [x] [Umgang mit Geld, Sparformen](Umgang%20mit%20Geld%20Sparformen.md) ✅ 2025-08-20
 30. [x] [Privatinsolvenz](Privatinsolvenz.md) ✅ 2025-08-20
+31. [ ] 2.  [Marktformen](Marktformen.md)

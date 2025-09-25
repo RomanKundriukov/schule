@@ -5,3 +5,6 @@
 
 # Marktformen ![[Marktformen.png]]
 
+# Vollkommenmarkt
+
+![[vollkommenmarkt.png]]
