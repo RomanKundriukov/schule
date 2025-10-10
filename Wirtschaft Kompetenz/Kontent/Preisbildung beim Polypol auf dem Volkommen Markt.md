@@ -33,8 +33,25 @@
 
 ![[PeisbildungBeimPolypol.png]]
 
----
-
 >Jede Anbieter:in will zum **höchstmöglichen Preis** verkaufen, jede Nachfrager:in zum **niedrigstmöglichen Preis** kaufen.  
 >Der **Gleichgewichtspreis** entsteht am Schnittpunkt von Angebots- und Nachfragekurve.
+
+---
+
+![[Konsumentenrente-Produzentenrente-Grafik.png]]
+
+>**Konsumentenrente**: Der Vorteil (oder Überschuss), den Konsumenten haben, weil sie weniger bezahlen, als sie maximal bereit gewesen wären zu zahlen.  Anders gesagt: Zahlungsbereitschaft minus tatsächlich bezahlter Preis.
+
+>**Produzentenrente**: Der Vorteil der Produzenten, weil der Marktpreis über dem Mindestpreis liegt, zu dem sie bereit gewesen wären zu verkaufen.  Anders gesagt: Marktpreis minus minimal erforderlicher Preis (bzw. Grenzkosten).
+
+---
+
+![[Gleichgewichtspreis-Angebotsüberhang-und-Nachfrageüberhang-1024x576.png]]
+
+>**Angebotsüberschuss** (auch Angebotsüberhang): Wenn zu einem bestimmten Preis mehr Menge angeboten wird, als von Nachfragern nachgefragt wird. Das Angebot > Nachfrage.  → Verkäufer sitzen auf Überschussware, müssen den Preis senken, damit die Menge abverkauft wird.  (z. B. Preis ist zu hoch)
+
+>**Nachfrageüberschuss** (Nachfrageüberhang): Wenn zu einem bestimmten Preis mehr Nachfrage besteht, als angeboten wird. Nachfrage > Angebot.  → Käufer wollen mehr kaufen, der Verkäufer kann den Preis erhöhen oder nicht alle Anfragen bedienen.  (z. B. Preis ist zu niedrig)
+
+---
+
 
