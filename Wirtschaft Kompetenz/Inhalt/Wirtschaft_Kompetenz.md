@@ -29,4 +29,5 @@
 29. [x] [Umgang mit Geld, Sparformen](Umgang%20mit%20Geld%20Sparformen.md) ✅ 2025-08-20
 30. [x] [Privatinsolvenz](Privatinsolvenz.md) ✅ 2025-08-20
 31. [x] 2.  [Marktformen](Marktformen.md) ✅ 2025-10-02
-32. [ ] [Preisbildung beim Polypol auf dem Volkommen Markt](Preisbildung%20beim%20Polypol%20auf%20dem%20Volkommen%20Markt)
+32. [x] [Preisbildung beim Polypol auf dem Volkommen Markt](Preisbildung%20beim%20Polypol%20auf%20dem%20Volkommen%20Markt) ✅ 2025-10-23
+33. [ ] [Oligopol](Oligopol)
