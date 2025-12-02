@@ -1,4 +1,4 @@
-VLANs sind virtuelle lokale Netze die in IEEE 802.1q standardisiert sind und auf der Schicht 2 des OSI-Schichtenmodells arbeiten. Typischerweise arbeitet man in einem Ethernet-basierten Netzwerk mit VLAN- bzw. Multi-LAN-Technik.  
+ VLANs sind virtuelle lokale Netze die in IEEE 802.1q standardisiert sind und auf der Schicht 2 des OSI-Schichtenmodells arbeiten. Typischerweise arbeitet man in einem Ethernet-basierten Netzwerk mit VLAN- bzw. Multi-LAN-Technik.  
 Der Standard IEEE 802.1q ist für die VLAN-Technik bekannt, beinhaltet aber auch die Möglichkeit zur Priorisierung von Datenverkehr.
 
 - Trennung der Datenströme bzw. Segmentierung durch virtuelle LANs (VLAN-ID)

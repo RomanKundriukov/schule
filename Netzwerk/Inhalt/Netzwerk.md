@@ -27,4 +27,4 @@
 26. [x] [Address Resolution NDP](AddressResolutionNDP.md) ✅ 2025-08-20
 27. [x] [SLAAC](SLAAC.md) ✅ 2025-08-20
 28. [x] [Telnet und SSH](Telnet%20und%20SSH.md) ✅ 2025-08-20
-29. [ ] [VLAN](VLAN.md)
+29. [x] [VLAN](VLAN.md) ✅ 2025-11-28

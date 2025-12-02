@@ -31,4 +31,4 @@
 31. [x] 2.  [Marktformen](Marktformen.md) ✅ 2025-10-02
 32. [x] [Preisbildung beim Polypol auf dem Volkommen Markt](Preisbildung%20beim%20Polypol%20auf%20dem%20Volkommen%20Markt) ✅ 2025-10-23
 33. [x] [Oligopol](Oligopol) ✅ 2025-11-10
-34. [ ] [Angebotsmonopol](Angebotsmonopol)
+34. [x] [Angebotsmonopol](Angebotsmonopol) ✅ 2025-11-28
