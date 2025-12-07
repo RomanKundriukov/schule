@@ -15,4 +15,5 @@
 14. [x] [Populismus](Populismus.md) ✅ 2025-08-20
 15. [x] [Extremismus](Extremismus.md) ✅ 2025-08-20
 16. [x] [Menschenrechte](Menschenrechte.md) ✅ 2025-08-20
-17. [ ] [Politische Willensbildung](Politische%20Willensbildung)
+17. [x] [Binnenmarkt](Binnenmarkt.md) ✅ 2025-12-07
+18. [ ]  [Politische Institutionen](Politische%20Institutionen.md)
