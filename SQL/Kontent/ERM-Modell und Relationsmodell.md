@@ -247,7 +247,6 @@ Bei einer N:M Beziehung wird eine zusätzliche Relation (Zuordnungstabelle) gebi
 - Artikel( artikel_id, artikelnummer)
 
 - Bestellung( bestell_id, kd_id, artikel_id)
-
 ## Beispiel
 
 ERM
