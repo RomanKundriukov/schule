@@ -17,4 +17,4 @@
 16. [x] [Menschenrechte](Menschenrechte.md) ✅ 2025-08-20
 17. [x] [Binnenmarkt](Binnenmarkt.md) ✅ 2025-12-07
 18. [x] [Politische Institutionen](Politische%20Institutionen.md) ✅ 2025-12-07
-19. [ ] [Kriterien für einen Eu Beitritt](EU%20Beitritt.md)
+19. [x] [Kriterien für einen Eu Beitritt](EU%20Beitritt.md) ✅ 2026-01-02
